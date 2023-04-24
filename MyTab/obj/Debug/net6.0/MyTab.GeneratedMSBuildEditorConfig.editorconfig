@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyTab
+build_property.RootNamespace = MyTab
+build_property.ProjectDir = C:\Users\garrytrinder\source\repos\MyTab\MyTab\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\garrytrinder\source\repos\MyTab\MyTab
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/CurrentUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXJyZW50VXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/Deploy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXBsb3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/EditCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFZGl0Q29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/Graph.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHcmFwaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/Publish.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdWJsaXNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/Privacy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/TabConfig.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiQ29uZmlnLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/TermsOfUse.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXNPZlVzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/ProfileCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9maWxlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-a1998i9fsr
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Components/Welcome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXZWxjb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-cb4ks5qu6u
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/Tab.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-475ki0yisg
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/garrytrinder/source/repos/MyTab/MyTab/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
