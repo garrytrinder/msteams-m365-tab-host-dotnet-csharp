@@ -221,10 +221,14 @@ public class TeamsContext
     public UserTeamRole? UserTeamRole { get; set; }
 }
 
+/// <summary>
+/// https://learn.microsoft.com/en-us/javascript/api/@microsoft/teams-js/channeltype?view=msteams-client-js-latest
+/// </summary>
 public enum ChannelType
 {
     [Description("Private")] Private,
-    [Description("Regular")] Regular
+    [Description("Regular")] Regular,
+    [Description("Shared")] Shared
 }
 
 public enum FrameContext
